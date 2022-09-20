@@ -1,2 +1,0 @@
-# cry
- Something about crypto
